@@ -24,7 +24,7 @@ Install fail2ban
 
 ##############################
 
-Write down all your used commands.
+Write down all commands you used.
 
 
 

@@ -3,7 +3,7 @@ useradd -m henk
 groupadd operators
 usermod -aG operators henk
 mkdir /operators
-chown henk operators
+chown henk /operators
 chgrp operators /operators
 SCRIPT
 
