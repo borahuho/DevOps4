@@ -1,0 +1,33 @@
+
+Systemhardening
+
+###################################
+
+Switch to root user
+
+change port of SSH (2222) 
+
+Config UFW to this port
+
+Password root
+
+Secure Shared Memory
+
+Enable SSH Login for Specific Users Only (only user vagrant and Henk from all IP adressess)
+##### Use Wildcards to set all IP adressess #####
+
+Include a Security Login Banner (make a nice security banner)
+
+Restrict SU Access (only vagrant and Henk can use the su comamnd)
+
+Install fail2ban 
+
+##############################
+
+Write down all your used commands.
+
+
+
+
+
+
